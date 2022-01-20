@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94759dba.css",
+    "main.js": "/static/js/main.da842fb5.js",
+    "static/media/AppleSdGothicNeo-Regular.ttf": "/static/media/AppleSdGothicNeo-Regular.e6cd714b8b6143186d5e.ttf",
+    "static/media/AppleSdGothicNeo-Bold.ttf": "/static/media/AppleSdGothicNeo-Bold.409a7fc6ec21dd3aa93b.ttf",
+    "static/media/AppleSdGothicNeo-Medium.ttf": "/static/media/AppleSdGothicNeo-Medium.cf5b21be74870f23abbf.ttf",
+    "static/media/AppleSdGothicNeo-Bold.woff": "/static/media/AppleSdGothicNeo-Bold.51c72aa288d76cef2de8.woff",
+    "static/media/AppleSdGothicNeo-Regular.woff": "/static/media/AppleSdGothicNeo-Regular.68d93655e897e19e0f64.woff",
+    "static/media/AppleSdGothicNeo-Medium.woff": "/static/media/AppleSdGothicNeo-Medium.4ad253f8b1727c723fca.woff",
+    "static/media/AppleSdGothicNeo-Bold.woff2": "/static/media/AppleSdGothicNeo-Bold.9658e9276345094638da.woff2",
+    "static/media/AppleSdGothicNeo-Regular.woff2": "/static/media/AppleSdGothicNeo-Regular.45e15966c53695f6021b.woff2",
+    "static/media/AppleSdGothicNeo-Medium.woff2": "/static/media/AppleSdGothicNeo-Medium.7d4dabd7c526f2c01ec4.woff2",
+    "index.html": "/index.html",
+    "main.94759dba.css.map": "/static/css/main.94759dba.css.map",
+    "main.da842fb5.js.map": "/static/js/main.da842fb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94759dba.css",
+    "static/js/main.da842fb5.js"
+  ]
+}

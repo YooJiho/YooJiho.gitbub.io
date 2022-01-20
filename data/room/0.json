@@ -1,0 +1,36 @@
+{
+  "roomId": 0,
+  "senderName": "장만월 사장님",
+  "messageList": [
+    {
+      "userNo": 174295,
+      "message": "출근했니?",
+      "sendTime": "2022-01-15T13:34:00Z",
+      "read": true
+    },
+    {
+      "userNo": 174295,
+      "message": "출근했냐구?",
+      "sendTime": "2022-01-15T13:35:00Z",
+      "read": true
+    },
+    {
+      "userNo": 174295,
+      "message": "어딘데 출근 안하니?",
+      "sendTime": "2022-01-16T17:49:00Z",
+      "read": true
+    },
+    {
+      "userNo": 202918,
+      "message": "해외 출장중입니다.",
+      "sendTime": "2022-01-16T17:51:00Z",
+      "read": true
+    },
+    {
+      "userNo": 174295,
+      "message": "??",
+      "sendTime": "2022-01-16T17:59:00Z",
+      "read": false
+    }
+  ]
+}

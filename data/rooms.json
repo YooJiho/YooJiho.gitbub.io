@@ -1,0 +1,65 @@
+[
+  {
+    "roomId": 0,
+    "senderNo": 174295, 
+    "senderName": "장만월 사장님",
+    "senderProfileImage": "/profiles/profile-174295.png",
+    "recentSendTime": "2022-01-18T15:32:00Z",
+    "recentSendMessage" : "어딘데 출근 안하니, 죽고싶니?",
+    "noReadCount": 5
+  },
+  {
+    "roomId": 1,
+    "senderNo": 592919, 
+    "senderName": "신정근 바텐더",
+    "senderProfileImage": "/profiles/profile-592919.png",
+    "recentSendTime": "2021-12-31T17:02:00Z",
+    "recentSendMessage" : "오시는 길에 와인 몇병만 사다주세요",
+    "noReadCount": 0
+  },
+  {
+    "roomId": 2,
+    "senderNo": 299592, 
+    "senderName": "이미라 의사",
+    "senderProfileImage": "/profiles/profile-299592.png",
+    "recentSendTime": "2021-12-31T15:23:00Z",
+    "recentSendMessage" : "휴가 잘 보내고 계신가요? 다름이 아니라 지금 메세지 확인 가능하실까요?",
+    "noReadCount": 0
+  },
+  {
+    "roomId": 3,
+    "senderNo": 301028, 
+    "senderName": "구찬성 지배인",
+    "senderProfileImage": "/profiles/profile-301028.png",
+    "recentSendTime": "2021-12-31T12:21:00Z",
+    "recentSendMessage" : "아 휴가셨군요. 약속은 다음으로 미루시죠!",
+    "noReadCount": 0
+  },
+  {
+    "roomId": 4,
+    "senderNo": 291819, 
+    "senderName": "노준석 총지배인",
+    "senderProfileImage": "/profiles/profile-291819.png",
+    "recentSendTime": "2021-12-30T14:59:00Z",
+    "recentSendMessage" : "휴가에서 언제 돌아오시는지요. 돌아오시면 사장님께 한번 가보세요.",
+    "noReadCount": 0
+  },
+  {
+    "roomId": 5,
+    "senderNo": 294019, 
+    "senderName": "김유나 인턴",
+    "senderProfileImage": "/profiles/profile-294019.png",
+    "recentSendTime": "2021-12-30T04:23:00Z",
+    "recentSendMessage" : "304호 키를 잃어버렸어요 어떻게 해야하죠 ㅠ",
+    "noReadCount": 0
+  },
+  {
+    "roomId": 6,
+    "senderNo": 492919, 
+    "senderName": "구현모",
+    "senderProfileImage": "/profiles/profile-492919.png",
+    "recentSendTime": "2021-12-28T14:12:00Z",
+    "recentSendMessage" : "술먹자",
+    "noReadCount": 1
+  }
+]
