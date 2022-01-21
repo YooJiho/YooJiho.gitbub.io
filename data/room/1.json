@@ -1,0 +1,12 @@
+{
+  "roomId": 1,
+  "senderName": "신정근 바텐더",
+  "messageList": [
+    {
+      "userNo": 592919,
+      "message": "오시는 길에 와인 몇병만 사다주세요",
+      "sendTime": "2021-12-31T17:02:00Z",
+      "read": false
+    }
+  ]
+}

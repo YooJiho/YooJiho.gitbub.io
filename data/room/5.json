@@ -1,0 +1,12 @@
+{
+  "roomId": 5,
+  "senderName": "김유나 인턴",
+  "messageList": [
+    {
+      "userNo": 294019,
+      "message": "304호 키를 잃어버렸어요 어떻게 해야하죠 ㅠ",
+      "sendTime": "2021-12-30T04:23:00Z",
+      "read": false
+    }
+  ]
+}

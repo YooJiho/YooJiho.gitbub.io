@@ -1,0 +1,12 @@
+{
+  "roomId": 2,
+  "senderName": "이미라 의사",
+  "messageList": [
+    {
+      "userNo": 299592,
+      "message": "휴가 잘 보내고 계신가요? 다름이 아니라 지금 메세지 확인 가능하실까요?",
+      "sendTime": "2021-12-31T15:23:00Z",
+      "read": false
+    }
+  ]
+}

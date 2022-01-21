@@ -1,0 +1,12 @@
+{
+  "roomId": 3,
+  "senderName": "구찬성 지배인",
+  "messageList": [
+    {
+      "userNo": 301028,
+      "message": "아 휴가셨군요. 약속은 다음으로 미루시죠!",
+      "sendTime": "2021-12-31T12:21:00Z",
+      "read": false
+    }
+  ]
+}

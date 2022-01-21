@@ -1,0 +1,12 @@
+{
+  "roomId": 6,
+  "senderName": "구현모",
+  "messageList": [
+    {
+      "userNo": 492919,
+      "message": "술먹자",
+      "sendTime": "2021-12-28T14:12:00Z",
+      "read": false
+    }
+  ]
+}
